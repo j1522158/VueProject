@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg=" Start Vue.js App"/>
+  <HelloWorld msg=" Start Vue.js App and Github Action"/>
 </template>
 
 <script>
